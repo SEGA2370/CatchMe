@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Catch Me</string>
+    <string name="medium">MEDIUM</string>
+    <string name="easy">EASY</string>
+    <string name="difficulty">Choose the difficulty level</string>
+    <string name="koala">TAP THE KOALA GAME</string>
+    <string name="hard">HARD</string>
+    <string name="return_to_menu">Return to Menu</string>
+    <string name="restart">RESTART!</string>
+    <string name="score">SCORE : 0</string>
+    <string name="timer">TIMER : 50</string>
+    <string name="restartm">RESTART!</string>
+    <string name="score_m">SCORE : 0</string>
+    <string name="return_to_menum">Return to Menu</string>
+    <string name="timer_30">TIMER : 30</string>
+    <string name="return_to_menuh">Return to Menu</string>
+    <string name="restarth">RESTART!</string>
+    <string name="score_0h">SCORE : 0</string>
+    <string name="timer_20h">TIMER : 20</string>
+</resources>
